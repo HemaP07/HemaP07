@@ -85,20 +85,18 @@ A responsive portfolio highlighting my skills, projects, and achievements.
 
 # 📈 Most Used Languages
 
+
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemaP07&layout=compact&theme=dracula&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemaP07&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
 </p>
 
 ---
 
 # 🏆 GitHub Trophies
 
+
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HemaP07&theme=dracula&no-frame=true&row=1&column=6"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HemaP07&theme=dracula"/>
 </p>
 
 ---
