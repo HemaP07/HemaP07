@@ -96,14 +96,6 @@ A JavaScript calculator featuring multiple themes and responsive design.
 
 ---
 
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemaP07&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ---
 
 # 📈 Contribution Graph
