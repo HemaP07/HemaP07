@@ -1,49 +1,57 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1a1b27,100:7aa2f7&text=Hema%20P&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Student%20|%20Frontend%20Developer&descAlignY=58"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Hema P</h1>
 
 <h3 align="center">
-AI & ML Student | Frontend Developer | UI/UX Enthusiast | Lifelong Learner
+Artificial Intelligence & Machine Learning Student • Frontend Developer • UI/UX Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Student;Frontend+Web+Developer;UI%2FUX+Designer;React+Learner;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Frontend+Web+Developer;React+Learner;UI%2FUX+Designer;Always+Learning+New+Things+🚀"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=HemaP07&label=Profile%20Views&color=bd93f9&style=flat" alt="visitor badge"/>
+<img src="https://komarev.com/ghpvc/?username=HemaP07&label=Profile%20Views&color=7aa2f7&style=flat"/>
 </p>
 
 ---
 
-# 💫 About Me
+## 🙋‍♀️ About Me
 
-🎓 I'm **Hema P**, a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning** at **Sri Venkateshwaraa College of Technology**.
+🎓 Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning** at **Sri Venkateshwaraa College of Technology**.
 
-💡 I enjoy creating responsive, user-friendly websites while exploring AI technologies.
+💻 Passionate about building responsive websites and creating intuitive user experiences.
 
-🌱 Currently learning **React** and improving my full-stack development skills.
+🌱 Currently learning **React.js** and expanding my full-stack development skills.
 
-✨ I love combining **design thinking** with **clean code** to build impactful digital experiences.
+🎯 Interested in AI, Web Development, UI/UX, and Cloud Technologies.
 
-📍 Chennai, India
+📍 Chennai, Tamil Nadu, India
 
-> 💬 *"I likely spend more time reading error messages than actually writing new code."* 😄
+💬 **Fun Fact:**
+
+> *"I likely spend more time reading error messages than actually writing new code."* 😄
 
 ---
 
-# 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/hema-p-991183363" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<a href="https://www.linkedin.com/in/hema-p-991183363">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:hemasvct@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://hemap07.github.io/PORTFOLIO-WEBSITE/" target="blank">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="https://hemap07.github.io/PORTFOLIO-WEBSITE/">
+<img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -52,7 +60,7 @@ AI & ML Student | Frontend Developer | UI/UX Enthusiast | Lifelong Learner
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,bootstrap,react,nodejs,mysql,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,bootstrap,react,nodejs,mysql,git,github,vscode,figma,azure&theme=dark"/>
 
 </p>
 
@@ -61,13 +69,18 @@ AI & ML Student | Frontend Developer | UI/UX Enthusiast | Lifelong Learner
 # 🚀 Featured Projects
 
 ### 🍰 Dulce Bakery Website
-Responsive bakery website showcasing products with a modern UI.
+
+A responsive bakery website with a modern UI and elegant design.
+
+### 🌐 Portfolio Website
+
+My personal portfolio showcasing my skills, projects, and achievements.
+
+🔗 **Live Demo:** https://hemap07.github.io/PORTFOLIO-WEBSITE/
 
 ### 🧮 Calculator with Theme Changer
-A calculator featuring multiple themes using JavaScript.
 
-### 🌐 Personal Portfolio Website
-A responsive portfolio highlighting my skills, projects, and achievements.
+A JavaScript calculator featuring multiple themes and responsive design.
 
 ---
 
@@ -75,9 +88,9 @@ A responsive portfolio highlighting my skills, projects, and achievements.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HemaP07&show_icons=true&theme=dracula&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HemaP07&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=HemaP07&theme=dracula&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=HemaP07&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -85,18 +98,10 @@ A responsive portfolio highlighting my skills, projects, and achievements.
 
 # 📈 Most Used Languages
 
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HemaP07&layout=compact&theme=dracula"/>
-</p>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemaP07&layout=compact&theme=tokyonight&hide_border=true"/>
 
-# 🏆 GitHub Trophies
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HemaP07&theme=dracula"/>
 </p>
 
 ---
@@ -105,13 +110,13 @@ A responsive portfolio highlighting my skills, projects, and achievements.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HemaP07&theme=dracula"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HemaP07&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🛠 Tools & Technologies
+# 🛠 Tools
 
 <p align="center">
 
@@ -129,35 +134,52 @@ A responsive portfolio highlighting my skills, projects, and achievements.
 
 ---
 
-# 📚 Currently Learning
+# 🌱 Currently Learning
 
 - ⚛ React.js
-- 🤖 AI & Machine Learning
-- 🎨 Better UI/UX Design
-- 🌐 Modern Frontend Development
+- 🤖 Machine Learning
+- ☁ Azure Cloud
+- 🎨 UI/UX Design
+- 🌐 Full Stack Development
 
 ---
 
-# 🎯 Goals for 2026
+# 🎯 2026 Goals
 
-✅ Build Full Stack MERN Applications
+✅ Become a MERN Stack Developer
+
+✅ Build AI-powered Web Applications
 
 ✅ Contribute to Open Source
 
-✅ Master React Ecosystem
+✅ Complete More Real-world Projects
 
-✅ Learn Cloud Technologies
+✅ Land a Software Development Internship
 
 ---
 
-<h2 align="center">
+# 💙 Quote I Believe In
 
-⭐ Thanks for visiting my profile! ⭐
+> **"Every bug is one step closer to becoming a better developer."**
 
-</h2>
+---
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=footer"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HemaP07&theme=tokyonight"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</h3>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1a1b27,100:7aa2f7"/>
 
 </p>
