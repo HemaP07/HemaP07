@@ -6,8 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Frontend+Developer;Generative+AI+Learner;Building+Beautiful+%26+Intelligent+Experiences" />
 
-### 💜 AI • Frontend • UI/UX • Machine Learning
-
+### 💜 AI • Frontend • Gen AI  • Machine Learning 
 <p>
 <a href="https://github.com/HemaP07">
 <img src="https://img.shields.io/badge/GitHub-HemaP07-181717?style=for-the-badge&logo=github"/>
@@ -56,7 +55,7 @@ Interests:
   - Cloud Computing
 
 Goal:
-  Become a AI Developer 
+  Become an AI Developer 
   while creating impactful digital experiences.
 ```
 
