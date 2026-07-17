@@ -1,177 +1,339 @@
-<p align="center">
-  <img src="./banner.png" alt="Hema P Banner" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Hema P</h1>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Hema Malini
 
-<h3 align="center">
-Artificial Intelligence & Machine Learning Student • Frontend Developer • UI/UX Enthusiast
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Frontend+Developer;Generative+AI+Learner;Building+Beautiful+%26+Intelligent+Experiences" />
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Frontend+Web+Developer;React+Learner;UI%2FUX+Designer;Always+Learning+New+Things+🚀"/>
-</p>
+### 💜 AI • Frontend • UI/UX • Machine Learning
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=HemaP07&label=Profile%20Views&color=7aa2f7&style=flat"/>
-</p>
-
----
-
-## 🙋‍♀️ About Me
-
-🎓 Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning** at **Sri Venkateshwaraa College of Technology**.
-
-💻 Passionate about building responsive websites and creating intuitive user experiences.
-
-🌱 Currently learning **React.js** and expanding my full-stack development skills.
-
-🎯 Interested in AI, Web Development, UI/UX, and Cloud Technologies.
-
-📍 Chennai, Tamil Nadu, India
-
-💬 **Fun Fact:**
-
-> *"I likely spend more time reading error messages than actually writing new code."* 😄
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/hema-p-991183363">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p>
+<a href="https://github.com/HemaP07">
+<img src="https://img.shields.io/badge/GitHub-HemaP07-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:hemasvct@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/hema-p-991183363">
+<img src="https://img.shields.io/badge/LinkedIn-Hema%20Malini-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://hemap07.github.io/PORTFOLIO-WEBSITE/">
-<img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel"/>
 </a>
 
+<a href="mailto:hemasvct@gmail.com">
+<img src="https://img.shields.io/badge/Email-hemasvct@gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=HemaP07&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+```yaml
+Name: Hema Malini
+
+Location: Chennai, India
+
+Education:
+  Degree: B.E Computer Science Engineering (AI & ML)
+  College: Sri Venkateshwaraa College of Technology
+
+Current Focus:
+  - Machine Learning
+  - Frontend Development
+  - Generative AI
+  - UI/UX Design
+
+Interests:
+  - Artificial Intelligence
+  - Web Development
+  - Open Source
+  - Cloud Computing
+
+Goal:
+  Become a Machine Learning Engineer
+  while creating impactful digital experiences.
+```
+
+---
+
+# 🚀 Tech Stack
+
+## 👩‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js"/>
+</p>
+
+## 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
+</p>
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+## ☁ Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 📊 GitHub Analytics
 
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=HemaP07&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,bootstrap,react,nodejs,mysql,git,github,vscode,figma,azure&theme=dark"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HemaP07&theme=tokyonight&hide_border=true)
 
-</p>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HemaP07&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 # 🚀 Featured Projects
 
-### 🍰 Dulce Bakery Website
+<table>
+<tr>
 
-A responsive bakery website with a modern UI and elegant design.
+<td width="50%">
 
-### 🌐 Portfolio Website
+## 🍰 DULCE Bakery Website
 
-My personal portfolio showcasing my skills, projects, and achievements.
+A modern bakery website with a beautiful responsive UI.
 
-🔗 **Live Demo:** https://hemap07.github.io/PORTFOLIO-WEBSITE/
+✨ Features
 
-### 🧮 Calculator with Theme Changer
+- Responsive Design
+- Beautiful Animations
+- Modern Layout
+- Clean UI
 
-A JavaScript calculator featuring multiple themes and responsive design.
+### Tech Stack
+
+HTML • CSS • JavaScript • Bootstrap
+
+<a href="https://github.com/HemaP07/DULCE-BAKERY">
+<img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🧮 Calculator
+
+A stylish calculator with multiple themes.
+
+✨ Features
+
+- Theme Switcher
+- Responsive
+- Clean Design
+- Fast Calculations
+
+### Tech Stack
+
+HTML • CSS • JavaScript
+
+<a href="https://github.com/HemaP07/CALCULATOR">
+<img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+<table>
+<tr>
 
-<p align="center">
+<td width="50%">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HemaP07&show_icons=true&theme=tokyonight&hide_border=true"/>
+## 🌦 Weather Detection Dashboard
 
-<img height="170" src="https://streak-stats.demolab.com?user=HemaP07&theme=tokyonight&hide_border=true"/>
+Real-time weather dashboard using API integration.
 
-</p>
+✨ Features
+
+- Live Weather
+- Search City
+- Beautiful Dashboard
+- Responsive UI
+
+### Tech Stack
+
+HTML • CSS • JavaScript
+
+<a href="https://github.com/HemaP07/WEATHER-DETECTION-DASHBOARD">
+<img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🌐 Portfolio Website
+
+My personal portfolio showcasing projects and skills.
+
+✨ Features
+
+- Responsive
+- Modern Design
+- Smooth Scrolling
+- Contact Section
+
+<a href="https://hemap07.github.io/PORTFOLIO-WEBSITE/">
+<img src="https://img.shields.io/badge/Live_Website-8B5CF6?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
+# 💼 Internship
+
+## 🤖 Machine Learning & AI Intern
+
+🏢 **Tamzhilian Skills**
+
+📅 June 2026 – July 2026
+
+### Responsibilities
+
+- Worked on Machine Learning concepts
+- Built AI solutions
+- Improved Python programming
+- Team collaboration
+- Real-world AI exposure
+
 ---
 
-# 📈 Contribution Graph
+# 🏆 Certifications
 
-<p align="center">
+🏅 Microsoft Data Analytics
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HemaP07&theme=tokyo-night"/>
+🏅 Udemy Machine Learning
 
-</p>
+🏅 UpGrad Cloud Computing
 
----
-
-# 🛠 Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-</p>
+🏅 HP Data Science & Analytics
 
 ---
 
 # 🌱 Currently Learning
 
-- ⚛ React.js
-- 🤖 Machine Learning
-- ☁ Azure Cloud
-- 🎨 UI/UX Design
-- 🌐 Full Stack Development
+```text
+🤖 Machine Learning
+
+🧠 Generative AI
+
+⚛️ React
+
+🐍 Python
+
+☁️ Azure
+
+📊 Data Analytics
+```
 
 ---
 
 # 🎯 2026 Goals
 
-✅ Become a MERN Stack Developer
+- ⭐ Build 20+ Projects
+- ⭐ Master React
+- ⭐ Learn TensorFlow
+- ⭐ Contribute to Open Source
+- ⭐ Reach 1000+ GitHub Contributions
+- ⭐ Become an ML Engineer
 
-✅ Build AI-powered Web Applications
+---
+---
 
-✅ Contribute to Open Source
+# 📈 GitHub Contribution Graph
 
-✅ Complete More Real-world Projects
-
-✅ Land a Software Development Internship
+[![Hema's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HemaP07&theme=tokyo-night)](https://github.com/HemaP07)
 
 ---
 
-# 💙 Quote I Believe In
+# 🐍 Contribution Snake
 
-> **"Every bug is one step closer to becoming a better developer."**
+<p align="center">
+<img src="https://raw.githubusercontent.com/HemaP07/HemaP07/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+> **Note:** This animation will appear after you set up a GitHub Action. I can help you with that too.
 
 ---
+
+# 🌟 Fun Facts
+
+```text
+💜 I love designing beautiful user interfaces.
+
+🤖 I'm passionate about Artificial Intelligence.
+
+🌱 Every day I learn something new.
+
+🚀 My dream is to build intelligent products
+that make people's lives easier.
+```
+
+---
+
+# 💬 Quote of the Day
+
+<div align="center">
+
+> **"Dream big. Start small. Stay consistent. Let your code tell your story."** 💜
+
+</div>
+
+---
+
+# 🤝 Let's Connect
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HemaP07&theme=tokyonight"/>
+<a href="https://github.com/HemaP07">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hema-p-991183363">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:hemasvct@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://hemap07.github.io/PORTFOLIO-WEBSITE/">
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge"/>
+</a>
 
 </p>
 
 ---
 
-<h3 align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+## 💜 Thanks for visiting my profile!
 
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer"/>
 
-<p align="center">
+⭐ If you like my work, don't forget to star my repositories!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1a1b27,100:7aa2f7"/>
-
-</p>
+</div>
