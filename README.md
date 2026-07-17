@@ -56,7 +56,7 @@ Interests:
   - Cloud Computing
 
 Goal:
-  Become a Machine Learning Engineer
+  Become a AI Developer 
   while creating impactful digital experiences.
 ```
 
