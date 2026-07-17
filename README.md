@@ -1,65 +1,88 @@
 
 
-<h1 align="center">Hi 👋, I'm Hema Malini</h1>
+<div align="center">
 
-<h3 align="center">
-AI & Machine Learning Student • Frontend Developer • GenAI Learner
-</h3>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Hema Malini
 
-<p align="center">
-Building intelligent web experiences with AI and modern technologies 💜
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Frontend+Developer;Generative+AI+Learner;Building+Beautiful+%26+Intelligent+Experiences" />
 
-<p align="center">
+### 💜 AI • Frontend • UI/UX • Machine Learning
+
+<p>
 <a href="https://github.com/HemaP07">
-<img src="https://img.shields.io/github/followers/HemaP07?label=Followers&style=for-the-badge">
-</a>
-
-<a href="https://github.com/HemaP07">
-<img src="https://komarev.com/ghpvc/?username=HemaP07&style=for-the-badge&color=blueviolet">
+<img src="https://img.shields.io/badge/GitHub-HemaP07-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hema-p-991183363">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Hema%20Malini-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://hemap07.github.io/PORTFOLIO-WEBSITE/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:hemasvct@gmail.com">
+<img src="https://img.shields.io/badge/Email-hemasvct@gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=HemaP07&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
+
+</div>
+
 ---
 
-# 💜 About Me
+# 💫 About Me
 
-🎓 **B.E. Computer Science Engineering (AI & ML)**  
-🏫 Sri Venkateshwaraa College of Technology
+```yaml
+Name: Hema Malini
 
-💻 Frontend Developer passionate about creating responsive and modern websites.
+Location: Chennai, India
 
-🤖 Currently exploring Artificial Intelligence, Machine Learning, and Generative AI.
+Education:
+  Degree: B.E Computer Science Engineering (AI & ML)
+  College: Sri Venkateshwaraa College of Technology
 
-🌱 Always learning, building, and improving.
+Current Focus:
+  - Machine Learning
+  - Frontend Development
+  - Generative AI
+  - UI/UX Design
+
+Interests:
+  - Artificial Intelligence
+  - Web Development
+  - Open Source
+  - Cloud Computing
+
+Goal:
+  Become a Machine Learning Engineer
+  while creating impactful digital experiences.
+```
 
 ---
 
 # 🚀 Tech Stack
 
-### Languages
+## 👩‍💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js"/>
 </p>
 
-### Frontend
+## 🌐 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
 </p>
 
-### Database
+## 🗄 Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
-### Tools
+## ☁ Cloud & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
@@ -67,119 +90,252 @@ Building intelligent web experiences with AI and modern technologies 💜
 
 ---
 
-# 💼 Internship
+# 📊 GitHub Analytics
 
-### 🤖 Machine Learning & AI Intern
+![](https://github-readme-stats.vercel.app/api?username=HemaP07&show_icons=true&theme=tokyonight&hide_border=true)
 
-**Tamzhilian Skills**
+![](https://github-readme-streak-stats.herokuapp.com/?user=HemaP07&theme=tokyonight&hide_border=true)
 
-- Worked on Machine Learning concepts
-- Improved Python programming
-- Built AI-based solutions
-- Team collaboration
-- Real-world project experience
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HemaP07&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 # 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%">
+
 ## 🍰 DULCE Bakery Website
-Modern responsive bakery website.
 
-🔗 https://github.com/HemaP07/DULCE-BAKERY
+A modern bakery website with a beautiful responsive UI.
 
----
+✨ Features
+
+- Responsive Design
+- Beautiful Animations
+- Modern Layout
+- Clean UI
+
+### Tech Stack
+
+HTML • CSS • JavaScript • Bootstrap
+
+<a href="https://github.com/HemaP07/DULCE-BAKERY">
+<img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
 
 ## 🧮 Calculator
 
-Calculator with Theme Changer.
+A stylish calculator with multiple themes.
 
-🔗 https://github.com/HemaP07/CALCULATOR
+✨ Features
+
+- Theme Switcher
+- Responsive
+- Clean Design
+- Fast Calculations
+
+### Tech Stack
+
+HTML • CSS • JavaScript
+
+<a href="https://github.com/HemaP07/CALCULATOR">
+<img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
+
+<table>
+<tr>
+
+<td width="50%">
 
 ## 🌦 Weather Detection Dashboard
 
-Real-time Weather Dashboard.
+Real-time weather dashboard using API integration.
 
-🔗 https://github.com/HemaP07/WEATHER-DETECTION-DASHBOARD
+✨ Features
 
----
+- Live Weather
+- Search City
+- Beautiful Dashboard
+- Responsive UI
+
+### Tech Stack
+
+HTML • CSS • JavaScript
+
+<a href="https://github.com/HemaP07/WEATHER-DETECTION-DASHBOARD">
+<img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
 
 ## 🌐 Portfolio Website
 
-My personal portfolio.
+My personal portfolio showcasing projects and skills.
 
-🔗 https://hemap07.github.io/PORTFOLIO-WEBSITE/
+✨ Features
+
+- Responsive
+- Modern Design
+- Smooth Scrolling
+- Contact Section
+
+<a href="https://hemap07.github.io/PORTFOLIO-WEBSITE/">
+<img src="https://img.shields.io/badge/Live_Website-8B5CF6?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 📚 Currently Learning
+# 💼 Internship
 
-- 🤖 Machine Learning
-- 🧠 Generative AI
-- ⚛️ React
-- ☁️ Azure
-- 📊 Data Analytics
+## 🤖 Machine Learning & AI Intern
+
+🏢 **Tamzhilian Skills**
+
+📅 June 2026 – July 2026
+
+### Responsibilities
+
+- Worked on Machine Learning concepts
+- Built AI solutions
+- Improved Python programming
+- Team collaboration
+- Real-world AI exposure
 
 ---
 
 # 🏆 Certifications
 
-- Microsoft Data Analytics
-- HP Data Science & Analytics
-- UpGrad Cloud Computing
-- Udemy Machine Learning
+🏅 Microsoft Data Analytics
+
+🏅 Udemy Machine Learning
+
+🏅 UpGrad Cloud Computing
+
+🏅 HP Data Science & Analytics
 
 ---
 
-# 📊 GitHub Stats
+# 🌱 Currently Learning
 
-<p align="center">
+```text
+🤖 Machine Learning
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HemaP07&show_icons=true&theme=tokyonight"/>
+🧠 Generative AI
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemaP07&layout=compact&theme=tokyonight"/>
+⚛️ React
 
-</p>
+🐍 Python
 
-<p align="center">
+☁️ Azure
 
-<img src="https://streak-stats.demolab.com?user=HemaP07&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🌱 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HemaP07&theme=tokyo-night"/>
-
-</p>
+📊 Data Analytics
+```
 
 ---
 
-# 📫 Connect With Me
+# 🎯 2026 Goals
 
-📧 **Email:** hemasvct@gmail.com
+- ⭐ Build 20+ Projects
+- ⭐ Master React
+- ⭐ Learn TensorFlow
+- ⭐ Contribute to Open Source
+- ⭐ Reach 1000+ GitHub Contributions
+- ⭐ Become an ML Engineer
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/hema-p-991183363
+---
+---
 
-🌐 **Portfolio:**  
-https://hemap07.github.io/PORTFOLIO-WEBSITE/
+# 📈 GitHub Contribution Graph
 
-🐙 **GitHub:**  
-https://github.com/HemaP07
+[![Hema's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HemaP07&theme=tokyo-night)](https://github.com/HemaP07)
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/HemaP07/HemaP07/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+> **Note:** This animation will appear after you set up a GitHub Action. I can help you with that too.
+
+---
+
+# 🌟 Fun Facts
+
+```text
+💜 I love designing beautiful user interfaces.
+
+🤖 I'm passionate about Artificial Intelligence.
+
+🌱 Every day I learn something new.
+
+🚀 My dream is to build intelligent products
+that make people's lives easier.
+```
+
+---
+
+# 💬 Quote of the Day
+
+<div align="center">
+
+> **"Dream big. Start small. Stay consistent. Let your code tell your story."** 💜
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/HemaP07">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hema-p-991183363">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:hemasvct@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://hemap07.github.io/PORTFOLIO-WEBSITE/">
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### 💜 "Learning today. Building tomorrow."
+## 💜 Thanks for visiting my profile!
 
-⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer"/>
+
+⭐ If you like my work, don't forget to star my repositories!
 
 </div>
