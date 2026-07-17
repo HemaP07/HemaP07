@@ -258,7 +258,7 @@ My personal portfolio showcasing projects and skills.
 <img src="https://raw.githubusercontent.com/HemaP07/HemaP07/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
-> **Note:** This animation will appear after you set up a GitHub Action. I can help you with that too.
+
 
 ---
 
