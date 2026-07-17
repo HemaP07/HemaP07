@@ -204,33 +204,15 @@ My personal portfolio showcasing projects and skills.
 
 ---
 
-# 💼 Internship
-
-## 🤖 Machine Learning & AI Intern
-
-🏢 **Tamzhilian Skills**
-
-📅 June 2026 – July 2026
-
-### Responsibilities
-
-- Worked on Machine Learning concepts
-- Built AI solutions
-- Improved Python programming
-- Team collaboration
-- Real-world AI exposure
-
----
-
 # 🏆 Certifications
 
-🏅 Microsoft Data Analytics
+🏅 Microsoft Azure Essential 
 
 🏅 Udemy Machine Learning
 
-🏅 UpGrad Cloud Computing
+🏅 TCS ion AI foundation 
 
-🏅 HP Data Science & Analytics
+🏅 IBM AI fundamentals
 
 ---
 
@@ -259,7 +241,7 @@ My personal portfolio showcasing projects and skills.
 - ⭐ Learn TensorFlow
 - ⭐ Contribute to Open Source
 - ⭐ Reach 1000+ GitHub Contributions
-- ⭐ Become an ML Engineer
+- ⭐ Become an ML Engineer/ AI developer 
 
 ---
 ---
